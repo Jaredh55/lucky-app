@@ -1,0 +1,1 @@
+json.lyrics @bottles_lyrics
